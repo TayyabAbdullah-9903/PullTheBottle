@@ -87,3 +87,10 @@ Supports:
 5. POP the bottle free
 
 ---
+👨‍💻 Developer
+
+Developed by Tayyab Abdullah
+
+📄 License
+
+This project is for learning and portfolio purposes.
